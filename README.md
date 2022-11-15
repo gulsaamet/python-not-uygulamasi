@@ -4,5 +4,8 @@ Tamamen kendini geliştirmek amacıyla yaptığım bir projedir. Kendime göre �
 Uygulama içeriği nelerdir?
 
 • Yeni öğrenci kaydı yapabilir, notlarını girebilirsiniz.
+
 • Öğrencinin ortalamasını alabilir, durumunun ne olduğunu görebilirsiniz. (Çok İyi - İyi - Orta - Kötü - Sınıfta Kaldınız.)
+
 • Ortalama bilgilerini ve durum bilgisini kaydedebilirsiniz.
+
